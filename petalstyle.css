@@ -34,10 +34,10 @@ p{
     background-color:rgb(230, 230, 230);
 }
 .logo a{
-    width: 250px;
-    height: 160px;
+    width: 135px;
+    height: 92px;
     float: left;
-    background: url(../PetalsScent/img/logo.PNG) no-repeat;
+    background: url(../PetalsScent/img/logo1.PNG) no-repeat;
     font-size: 0;
 }
 .cabecalho form{
@@ -45,14 +45,14 @@ p{
     float: right;
 }
 .cabecalho input{
-    margin-top: 50px;
+    margin-top: 25px;
     width: 85%;
     float: left;
     padding: 15px 10px;
     border-radius: 5px 0 0 5px;
 }
 .cabecalho button{
-    margin-top: 50px;
+    margin-top: 25px;
     width: 15%;
     float: right;
     padding: 15px 10px;
